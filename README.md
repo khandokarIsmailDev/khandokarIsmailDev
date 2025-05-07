@@ -38,12 +38,7 @@ Let's not just write code; let's sculpt an immersive and visually appealing user
 
   As a Fiverr Level One Seller, I specialize in providing top-notch WordPress services. Recognized for delivering outstanding service and ensuring client satisfaction, I have a proven track record of successfully completing projects with a strong emphasis on quality and adherence to timelines.
 
-  **Recent Projects:**
-
-    1. [SMCHS School Website](https://smchs.edu.gh): I had the privilege of working with Nana Akyea to develop a dynamic and user-friendly WordPress website for SMCHS School in Ghana. The project involved creating a modern design, implementing essential features, and ensuring seamless navigation for visitors.[https://smchs.edu.gh](https://smchs.edu.gh)
-
-    2. [i-StudyAbroad](https://www.i-studyabroad.org): Collaborating with Nana Akyea, I designed and developed the i-StudyAbroad website on WordPress. The site focuses on providing valuable information to students interested in studying abroad, featuring an intuitive interface and engaging content. [https://www.i-studyabroad.org](https://www.i-studyabroad.org)
-
+  
   ### 🛠️ **Let's Collaborate!**
 
   Whether you have a specific project in mind or need consultation on web development, I'm here to help. Let's create something extraordinary together!
